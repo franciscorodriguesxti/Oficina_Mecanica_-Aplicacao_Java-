@@ -1,0 +1,1 @@
+A pasta src contém os arquivos .java e .form para serem abertos no Netbeans ou outra IDE. Assim é mais fácil acessar o código fonte da aplicação. As imagens anexas na pasta src--> oficinamecanica mostram como fazer isso.
